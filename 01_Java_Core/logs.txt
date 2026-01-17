@@ -1,0 +1,3 @@
+[INFO] Robot khoi dong thanh cong
+[WARNING] Nhiet do CPU tang cao 80 do
+[ERROR] Mat ket noi voi server
